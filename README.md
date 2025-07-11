@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # prueba_flutter
+=======
+# fidelizacion3
+>>>>>>> 0e11e6346b845ccbc4e96a2c32f2e7a9b8311373
 
 A new Flutter project.
 

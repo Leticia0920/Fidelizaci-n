@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Prueba Flutter</string>
+=======
+	<string>Fidelizacion3</string>
+>>>>>>> 0e11e6346b845ccbc4e96a2c32f2e7a9b8311373
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>prueba_flutter</string>
+=======
+	<string>fidelizacion3</string>
+>>>>>>> 0e11e6346b845ccbc4e96a2c32f2e7a9b8311373
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
